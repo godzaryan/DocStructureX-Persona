@@ -76,7 +76,7 @@ DocStructureX-Persona Architecture Flow
 ├── Paragraph-level Subsection Analysis
 └── JSON Output Generation
 
-text
+
 
 - Built using pure Python with industry standard libraries.
 - Modular components allow independent development, testing, and extensibility.
@@ -95,7 +95,7 @@ source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-text
+
 
 ---
 
@@ -111,7 +111,7 @@ text
 
 python round1b_solution.py input "Senior Python Developer" "Tutorial on how Python 'Hello World' program is written" output/output.json
 
-text
+
 
 3. **Review Output**
 
@@ -128,24 +128,21 @@ The output JSON will be saved at the specified path (`output/output.json`) conta
 Ensure Docker is installed and running on your system.
 
 ### Build the Docker Image
-
+```
 docker build --platform linux/amd64 -t docstructurex-persona:latest .
+```
 
-text
 
 ### Run the Container
+```
+docker run --rm -v %cd%\input:/app/input -v %cd%\output:/app/output --network none -e PERSONA="PhD Researcher in AI" -e JOB_TO_BE_DONE="Literature review on neural networks" docstructurex-persona:latest
+```
 
-docker run --rm
--v $(pwd)/input:/app/input
--v $(pwd)/output:/app/output
---network none
--e PERSONA="Neural Network Enginner"
--e JOB_TO_BE_DONE="Lecture on neural networks"
-docstructurex-persona:latest
+for windows (cmd) :
+```
+docker run --rm -v %cd%\input:/app/input -v %cd%\output:/app/output --network none -e PERSONA="PhD Researcher in AI" -e JOB_TO_BE_DONE="Literature review on neural networks" docstructurex-persona:latest
+```
 
-text
-
-This command mounts your input and output folders inside the container, passes your persona and job via environment variables, disables network access (fully offline), and executes the extraction pipeline.
 
 ---
 
@@ -162,7 +159,7 @@ DocStructureX-Persona/
 ├── README.md
 └── LICENSE
 
-text
+
 
 ---
 
