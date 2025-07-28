@@ -87,14 +87,14 @@ DocStructureX-Persona Architecture Flow
 ## Installation
 
 Clone the repository and set up your Python environment:
-
+```
 git clone https://github.com/godzaryan/DocStructureX-Persona.git
 cd DocStructureX-Persona
 python -m venv venv
 source venv/bin/activate # On Windows: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
-
+```
 
 
 ---
@@ -147,7 +147,7 @@ docker run --rm -v %cd%\input:/app/input -v %cd%\output:/app/output --network no
 ---
 
 ## Project Structure
-
+```
 DocStructureX-Persona/
 ├── input/ # Put your PDF files here
 ├── output/ # Output JSON files will be written here
@@ -158,7 +158,7 @@ DocStructureX-Persona/
 ├── entrypoint.sh
 ├── README.md
 └── LICENSE
-
+```
 
 
 ---
