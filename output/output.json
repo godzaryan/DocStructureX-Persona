@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "input_documents": [
+      "1706.03762v7.pdf",
+      "Graph neural network - Wikipedia.pdf"
+    ],
+    "persona": "PhD Researcher in AI",
+    "job_to_be_done": "Literature review on neural networks",
+    "processing_timestamp": "2025-07-28T15:18:19.805653+00:00"
+  },
+  "extracted_sections": [
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 1,
+      "section_title": "Graph neural networks",
+      "importance_rank": 1,
+      "relevance_score": 0.08400397288962252
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 12,
+      "section_title": "External links",
+      "importance_rank": 2,
+      "relevance_score": 0.07803618043532626
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 3,
+      "section_title": "Graph convolutional network",
+      "importance_rank": 3,
+      "relevance_score": 0.07526380430816866
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 6,
+      "section_title": "Social networks",
+      "importance_rank": 4,
+      "relevance_score": 0.07331585687273746
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 7,
+      "section_title": "Water distribution networks",
+      "importance_rank": 5,
+      "relevance_score": 0.06847473550463783
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 10,
+      "section_title": "Conclusion",
+      "importance_rank": 6,
+      "relevance_score": 0.062116038409750766
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 2,
+      "section_title": "Message passing layers",
+      "importance_rank": 7,
+      "relevance_score": 0.055304542935767066
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 2,
+      "section_title": "Model Architecture",
+      "importance_rank": 8,
+      "relevance_score": 0.05492010809328475
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 4,
+      "section_title": "Graph attention network",
+      "importance_rank": 9,
+      "relevance_score": 0.04204820588613413
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 8,
+      "section_title": "Model Variations",
+      "importance_rank": 10,
+      "relevance_score": 0.01101083641264505
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "page_number": 5,
+      "section_title": "Top-k pooling",
+      "importance_rank": 11,
+      "relevance_score": 0.009341610895725558
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 5,
+      "section_title": "Applications of Attention in our Model",
+      "importance_rank": 12,
+      "relevance_score": 0.006299633091154622
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 6,
+      "section_title": "Positional Encoding",
+      "importance_rank": 13,
+      "relevance_score": 0.006293606506246683
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 2,
+      "section_title": "Background",
+      "importance_rank": 14,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 2,
+      "section_title": "Introduction",
+      "importance_rank": 15,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 3,
+      "section_title": "Attention",
+      "importance_rank": 16,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 3,
+      "section_title": "Encoder and Decoder Stacks",
+      "importance_rank": 17,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 4,
+      "section_title": "Multi-Head Attention",
+      "importance_rank": 18,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 4,
+      "section_title": "Scaled Dot-Product Attention",
+      "importance_rank": 19,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 5,
+      "section_title": "Embeddings and Softmax",
+      "importance_rank": 20,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 5,
+      "section_title": "Position-wise Feed-Forward Networks",
+      "importance_rank": 21,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 6,
+      "section_title": "Why Self-Attention",
+      "importance_rank": 22,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 7,
+      "section_title": "Training",
+      "importance_rank": 23,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 7,
+      "section_title": "Hardware and Schedule",
+      "importance_rank": 24,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 7,
+      "section_title": "Optimizer",
+      "importance_rank": 25,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 7,
+      "section_title": "Regularization",
+      "importance_rank": 26,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 7,
+      "section_title": "Training Data and Batching",
+      "importance_rank": 27,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 8,
+      "section_title": "Results",
+      "importance_rank": 28,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 8,
+      "section_title": "Machine Translation",
+      "importance_rank": 29,
+      "relevance_score": 0.0
+    },
+    {
+      "document": "1706.03762v7",
+      "page_number": 9,
+      "section_title": "English Constituency Parsing",
+      "importance_rank": 30,
+      "relevance_score": 0.0
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "Graph neural networks (GNN) are specialized artificial neural networks that are designed for",
+      "page_number": 1,
+      "parent_section": "Graph neural networks",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "tasks whose inputs are graphs.[1][2][3][4][5]",
+      "page_number": 1,
+      "parent_section": "Graph neural networks",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "One prominent example is molecular drug design.[6][7][8] Each input sample is a graph",
+      "page_number": 1,
+      "parent_section": "Graph neural networks",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "54. Zanfei, Ariele; et al. (2022). \"Graph Convolutional Recurrent Neural Networks for Water",
+      "page_number": 12,
+      "parent_section": "External links",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "55. Zanfei, Ariele; et al. (2023). \"Shall we always use hydraulic models? A graph neural network",
+      "page_number": 12,
+      "parent_section": "External links",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "Demand Forecasting\" (https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR032299).",
+      "page_number": 12,
+      "parent_section": "External links",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "Graph nodes in an MPNN update their representation",
+      "page_number": 3,
+      "parent_section": "Graph convolutional network",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "aggregating information from their immediate neighbours.",
+      "page_number": 3,
+      "parent_section": "Graph convolutional network",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "As such, stacking  MPNN layers means that one node will",
+      "page_number": 3,
+      "parent_section": "Graph convolutional network",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "Networks (GNNs) over traditional Neural Networks (NNs) on graph-structured data, especially on",
+      "page_number": 6,
+      "parent_section": "Social networks",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "connected, has been commonly believed to be the main reason for the superiority of Graph Neural",
+      "page_number": 6,
+      "parent_section": "Social networks",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "The Self-attention pooling layer[30] can then be formalised as follows:",
+      "page_number": 6,
+      "parent_section": "Social networks",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "GNNs are used as fundamental building blocks for several combinatorial optimization",
+      "page_number": 7,
+      "parent_section": "Water distribution networks",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "algorithms.[48] Examples include computing shortest paths or Eulerian circuits for a given",
+      "page_number": 7,
+      "parent_section": "Water distribution networks",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "graph,[39] deriving chip placements superior or competitive to handcrafted human solutions,[49]",
+      "page_number": 7,
+      "parent_section": "Water distribution networks",
+      "rank": 3
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "Table 4: The Transformer generalizes well to English constituency parsing (Results are on Section 23",
+      "page_number": 10,
+      "parent_section": "Conclusion",
+      "rank": 1
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "increased the maximum output length to input length + 300. We used a beam size of 21 and α = 0.3",
+      "page_number": 10,
+      "parent_section": "Conclusion",
+      "rank": 2
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "for both WSJ only and the semi-supervised setting.",
+      "page_number": 10,
+      "parent_section": "Conclusion",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "convolutional neural networks. Examples include k-nearest neighbours pooling, top-k",
+      "page_number": 2,
+      "parent_section": "Message passing layers",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "an updated representation of the same graph. In the literature, permutation equivariant layers",
+      "page_number": 2,
+      "parent_section": "Message passing layers",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "1. Permutation equivariant: a permutation equivariant layer maps a representation of a graph into",
+      "page_number": 2,
+      "parent_section": "Message passing layers",
+      "rank": 3
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "Recurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks",
+      "page_number": 2,
+      "parent_section": "Model Architecture",
+      "rank": 1
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "in particular, have been firmly established as state of the art approaches in sequence modeling and",
+      "page_number": 2,
+      "parent_section": "Model Architecture",
+      "rank": 2
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "transduction problems such as language modeling and machine translation [35, 2, 5]. Numerous",
+      "page_number": 2,
+      "parent_section": "Model Architecture",
+      "rank": 3
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "attention layer in graphical neural networks helps provide attention or focus to the important",
+      "page_number": 4,
+      "parent_section": "Graph attention network",
+      "rank": 1
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "A limitation of GCNs is that they do not allow multidimensional edge features",
+      "page_number": 4,
+      "parent_section": "Graph attention network",
+      "rank": 2
+    },
+    {
+      "document": "Graph neural network - Wikipedia",
+      "refined_text": "nonzero entry in the adjacency matrix equal to the weight of the corresponding edge.",
+      "page_number": 4,
+      "parent_section": "Graph attention network",
+      "rank": 3
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "Table 2: The Transformer achieves better BLEU scores than previous state-of-the-art models on the",
+      "page_number": 8,
+      "parent_section": "Model Variations",
+      "rank": 1
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "English-to-German and English-to-French newstest2014 tests at a fraction of the training cost.",
+      "page_number": 8,
+      "parent_section": "Model Variations",
+      "rank": 2
+    },
+    {
+      "document": "1706.03762v7",
+      "refined_text": "We apply dropout [33] to the output of each sub-layer, before it is added to the",
+      "page_number": 8,
+      "parent_section": "Model Variations",
+      "rank": 3
+    }
+  ]
+}
